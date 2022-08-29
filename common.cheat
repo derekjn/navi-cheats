@@ -1,0 +1,5 @@
+% text
+
+# remove first line
+tail -n +2
+
